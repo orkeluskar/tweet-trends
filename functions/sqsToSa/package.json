@@ -1,0 +1,12 @@
+{
+  "bin": "index.js",
+  "dependencies": {
+    "@google-cloud/language": "^1.1.0",
+    "aws-sdk": "^2.153.0",
+    "elasticsearch": "^14.0.0",
+    "watson-developer-cloud": "^2.42.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,0 +1,4 @@
+#nodemodules
+functions/fromSnsToES/node_modules/
+functions/sqsToSa/node_modules/
+functions/tweetToSqsAndSns/node_modules/

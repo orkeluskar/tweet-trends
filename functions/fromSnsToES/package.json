@@ -1,0 +1,10 @@
+{
+  "bin": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.153.0",
+    "elasticsearch": "^14.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "TweetTrends",
+  "description": "Find tweet trends for a given keyword. Sentiment Analyze tweet through IBM Watson NLU API. Using SNS, SQS, Lambda & Elastic Search from AWS Servers.",
+  "memory": 128, 
+  "timeout": 30,
+  "role": "arn:aws:iam::459668968562:role/TweetTrends_lambda_function",
+  "environment": {},
+  "Author": "Omkar"
+}

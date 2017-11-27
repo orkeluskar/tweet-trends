@@ -1,0 +1,11 @@
+{
+  "bin": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.153.0",
+    "elasticsearch": "^14.0.0",
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
